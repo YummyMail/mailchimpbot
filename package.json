@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:YummyMail/mailchimpbot.git"
+  },
   "keywords": [
     "slack",
     "bot",
@@ -14,6 +18,9 @@
   ],
   "author": "Markus Tacker <m@cto.hiv>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YummyMail/mailchimpbot/issues"
+  },
   "dependencies": {
     "bluebird": "^3.1.1",
     "botkit": "0.0.5",
