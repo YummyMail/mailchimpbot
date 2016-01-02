@@ -1,0 +1,28 @@
+{
+  "name": "mailchimpbot",
+  "version": "0.0.1",
+  "description": "A slack bot that fetches information about mailchimp subscribers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "mailchimp",
+    "nodejs"
+  ],
+  "author": "Markus Tacker <m@cto.hiv>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "botkit": "0.0.5",
+    "bunyan": "^1.5.1",
+    "continuation-local-storage": "^3.1.4",
+    "nconf": "^0.8.2",
+    "request-promise": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
