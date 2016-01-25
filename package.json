@@ -1,6 +1,6 @@
 {
   "name": "mailchimpbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A slack bot that fetches information about mailchimp subscribers",
   "main": "main.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "mailchimpbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "accepts": {
       "version": "1.2.13",
