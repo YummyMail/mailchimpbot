@@ -105,9 +105,9 @@
       "resolved": "https://registry.npmjs.org/bl/-/bl-1.0.0.tgz"
     },
     "bluebird": {
-      "version": "3.1.1",
-      "from": "bluebird@latest",
-      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.1.1.tgz"
+      "version": "3.1.4",
+      "from": "bluebird@3.1.4",
+      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.1.4.tgz"
     },
     "body-parser": {
       "version": "1.14.2",
@@ -183,11 +183,6 @@
       "version": "1.0.2",
       "from": "clone@>=1.0.2 <1.1.0",
       "resolved": "https://registry.npmjs.org/clone/-/clone-1.0.2.tgz"
-    },
-    "cls-bluebird": {
-      "version": "1.0.1",
-      "from": "cls-bluebird@>=1.0.1 <2.0.0",
-      "resolved": "https://registry.npmjs.org/cls-bluebird/-/cls-bluebird-1.0.1.tgz"
     },
     "code-point-at": {
       "version": "1.0.0",
@@ -328,7 +323,8 @@
       "dependencies": {
         "shimmer": {
           "version": "1.0.0",
-          "from": "shimmer@1.0.0"
+          "from": "shimmer@1.0.0",
+          "resolved": "https://registry.npmjs.org/shimmer/-/shimmer-1.0.0.tgz"
         }
       }
     },
@@ -1164,9 +1160,9 @@
       "resolved": "https://registry.npmjs.org/request/-/request-2.67.0.tgz"
     },
     "request-promise": {
-      "version": "1.0.2",
-      "from": "request-promise@latest",
-      "resolved": "https://registry.npmjs.org/request-promise/-/request-promise-1.0.2.tgz",
+      "version": "2.0.0",
+      "from": "request-promise@2.0.0",
+      "resolved": "https://registry.npmjs.org/request-promise/-/request-promise-2.0.0.tgz",
       "dependencies": {
         "bluebird": {
           "version": "2.10.2",
@@ -1233,11 +1229,6 @@
       "version": "0.5.3",
       "from": "shelljs@>=0.5.3 <0.6.0",
       "resolved": "https://registry.npmjs.org/shelljs/-/shelljs-0.5.3.tgz"
-    },
-    "shimmer": {
-      "version": "1.1.0",
-      "from": "shimmer@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/shimmer/-/shimmer-1.1.0.tgz"
     },
     "sntp": {
       "version": "1.0.9",
