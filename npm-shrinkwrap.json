@@ -75,14 +75,7 @@
     "async-listener": {
       "version": "0.5.6",
       "from": "async-listener@>=0.5.0 <0.6.0",
-      "resolved": "https://registry.npmjs.org/async-listener/-/async-listener-0.5.6.tgz",
-      "dependencies": {
-        "shimmer": {
-          "version": "1.0.0",
-          "from": "shimmer@1.0.0",
-          "resolved": "https://registry.npmjs.org/shimmer/-/shimmer-1.0.0.tgz"
-        }
-      }
+      "resolved": "https://registry.npmjs.org/async-listener/-/async-listener-0.5.6.tgz"
     },
     "aws-sign2": {
       "version": "0.6.0",
@@ -105,9 +98,9 @@
       "resolved": "https://registry.npmjs.org/bl/-/bl-1.0.0.tgz"
     },
     "bluebird": {
-      "version": "3.1.4",
-      "from": "bluebird@3.1.4",
-      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.1.4.tgz"
+      "version": "3.2.1",
+      "from": "bluebird@3.2.1",
+      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.2.1.tgz"
     },
     "body-parser": {
       "version": "1.14.2",
@@ -145,9 +138,9 @@
       "resolved": "https://registry.npmjs.org/bytes/-/bytes-2.2.0.tgz"
     },
     "camelcase": {
-      "version": "2.0.1",
+      "version": "2.1.0",
       "from": "camelcase@>=2.0.1 <3.0.0",
-      "resolved": "https://registry.npmjs.org/camelcase/-/camelcase-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/camelcase/-/camelcase-2.1.0.tgz"
     },
     "caseless": {
       "version": "0.11.0",
@@ -220,9 +213,9 @@
       "resolved": "https://registry.npmjs.org/content-type/-/content-type-1.0.1.tgz"
     },
     "continuation-local-storage": {
-      "version": "3.1.4",
-      "from": "continuation-local-storage@latest",
-      "resolved": "https://registry.npmjs.org/continuation-local-storage/-/continuation-local-storage-3.1.4.tgz"
+      "version": "3.1.6",
+      "from": "continuation-local-storage@3.1.6",
+      "resolved": "https://registry.npmjs.org/continuation-local-storage/-/continuation-local-storage-3.1.6.tgz"
     },
     "cookie": {
       "version": "0.1.3",
@@ -319,14 +312,7 @@
     "emitter-listener": {
       "version": "1.0.1",
       "from": "emitter-listener@>=1.0.1 <2.0.0",
-      "resolved": "https://registry.npmjs.org/emitter-listener/-/emitter-listener-1.0.1.tgz",
-      "dependencies": {
-        "shimmer": {
-          "version": "1.0.0",
-          "from": "shimmer@1.0.0",
-          "resolved": "https://registry.npmjs.org/shimmer/-/shimmer-1.0.0.tgz"
-        }
-      }
+      "resolved": "https://registry.npmjs.org/emitter-listener/-/emitter-listener-1.0.1.tgz"
     },
     "es5-ext": {
       "version": "0.10.11",
@@ -988,14 +974,14 @@
       "resolved": "https://registry.npmjs.org/nan/-/nan-2.1.0.tgz"
     },
     "nconf": {
-      "version": "0.8.2",
-      "from": "nconf@latest",
-      "resolved": "https://registry.npmjs.org/nconf/-/nconf-0.8.2.tgz",
+      "version": "0.8.4",
+      "from": "nconf@0.8.4",
+      "resolved": "https://registry.npmjs.org/nconf/-/nconf-0.8.4.tgz",
       "dependencies": {
         "async": {
-          "version": "1.5.0",
+          "version": "1.5.2",
           "from": "async@>=1.4.0 <2.0.0",
-          "resolved": "https://registry.npmjs.org/async/-/async-1.5.0.tgz"
+          "resolved": "https://registry.npmjs.org/async/-/async-1.5.2.tgz"
         }
       }
     },
@@ -1208,6 +1194,11 @@
       "from": "safe-json-stringify@>=1.0.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/safe-json-stringify/-/safe-json-stringify-1.0.3.tgz"
     },
+    "secure-keys": {
+      "version": "1.0.0",
+      "from": "secure-keys@>=1.0.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/secure-keys/-/secure-keys-1.0.0.tgz"
+    },
     "send": {
       "version": "0.13.0",
       "from": "send@0.13.0",
@@ -1229,6 +1220,11 @@
       "version": "0.5.3",
       "from": "shelljs@>=0.5.3 <0.6.0",
       "resolved": "https://registry.npmjs.org/shelljs/-/shelljs-0.5.3.tgz"
+    },
+    "shimmer": {
+      "version": "1.0.0",
+      "from": "shimmer@1.0.0",
+      "resolved": "https://registry.npmjs.org/shimmer/-/shimmer-1.0.0.tgz"
     },
     "sntp": {
       "version": "1.0.9",
@@ -1470,9 +1466,9 @@
       "resolved": "https://registry.npmjs.org/y18n/-/y18n-3.2.0.tgz"
     },
     "yargs": {
-      "version": "3.31.0",
+      "version": "3.32.0",
       "from": "yargs@>=3.19.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/yargs/-/yargs-3.31.0.tgz"
+      "resolved": "https://registry.npmjs.org/yargs/-/yargs-3.32.0.tgz"
     }
   }
 }
