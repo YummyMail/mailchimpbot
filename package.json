@@ -30,6 +30,6 @@
     "request-promise": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^1.10.3"
+    "eslint": "^2.0.0"
   }
 }
