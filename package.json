@@ -1,15 +1,15 @@
 {
   "name": "mailchimpbot",
-  "version": "0.0.3",
   "description": "A slack bot that fetches information about mailchimp subscribers",
   "main": "main.js",
   "scripts": {
     "lint": "./node_modules/.bin/standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:YummyMail/mailchimpbot.git"
+    "url": "https://github.com/YummyMail/mailchimpbot.git"
   },
   "keywords": [
     "slack",
@@ -31,6 +31,7 @@
     "request-promise": "^2.0.0"
   },
   "devDependencies": {
-    "standard": "^6.0.5"
+    "standard": "^6.0.5",
+    "semantic-release": "^4.3.5"
   }
 }
