@@ -2,7 +2,6 @@
   "name": "mailchimpbot",
   "description": "A slack bot that fetches information about mailchimp subscribers",
   "main": "main.js",
-  "version": "0.0.4",
   "scripts": {
     "lint": "./node_modules/.bin/standard",
     "test": "echo \"Error: no test specified\" && exit 1",
