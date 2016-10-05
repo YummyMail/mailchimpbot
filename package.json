@@ -34,7 +34,7 @@
     "ghooks": "^1.0.3",
     "semantic-release": "^4.3.5",
     "standard": "^8.0.0",
-    "validate-commit-msg": "^2.0.0"
+    "validate-commit-msg": "^2.8.2"
   },
   "config": {
     "ghooks": {
