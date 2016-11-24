@@ -56,7 +56,7 @@ bot.startRTM(function (err) {
 
 controller.on('bot_message', function (bot, message) {
   logging.info('message', message)
-  var match = message.text.match(/^<mailto:([^@]+@[^\|]+)\|[^@]+@[^>]+> subscribed to <[^\|]+\|([^>]+)>$/)
+  var match = message.text.match(/^<mailto:([^@]+@[^|]+)\|[^@]+@[^>]+> subscribed to <[^|]+\|([^>]+)>$/)
   if (!match) {
     return
   }
