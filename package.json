@@ -5,7 +5,9 @@
   "scripts": {
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "commitmsg": "validate-commit-msg",
+    "precommit": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -31,14 +33,9 @@
     "request-promise": "^4.0.0"
   },
   "devDependencies": {
-    "ghooks": "^1.0.3",
+    "husky": "<2.0.0",
     "semantic-release": "^6.3.2",
     "standard": "^8.6.0",
     "validate-commit-msg": "^2.8.2"
-  },
-  "config": {
-    "ghooks": {
-      "commit-msg": "validate-commit-msg"
-    }
   }
 }
