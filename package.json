@@ -31,7 +31,7 @@
     "request-promise": "^4.0.0"
   },
   "devDependencies": {
-    "ghooks": "^1.0.3",
+    "ghooks": "^2.0.0",
     "semantic-release": "^6.3.2",
     "standard": "^8.6.0",
     "validate-commit-msg": "^2.8.2"
