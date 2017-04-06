@@ -35,7 +35,7 @@
   "devDependencies": {
     "husky": "<2.0.0",
     "semantic-release": "^6.3.2",
-    "standard": "^9.0.0",
+    "standard": "^10.0.1",
     "validate-commit-msg": "^2.8.2"
   }
 }
