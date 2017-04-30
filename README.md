@@ -1,5 +1,7 @@
 # mailchimpbot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/YummyMail/mailchimpbot.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/YummyMail/mailchimpbot.svg?branch=master)](https://travis-ci.org/YummyMail/mailchimpbot)
 
 A slack bot that fetches information about mailchimp subscribers.
